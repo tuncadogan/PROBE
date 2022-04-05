@@ -8,10 +8,13 @@
   - classifying drug target proteins according to their families, and
   - estimating protein-protein binding affinities.
 
-- PROBE is part of the the study entitled [Evaluation of Methods for Protein Representation Learning: A Quantitative Analysis](https://www.biorxiv.org/content/10.1101/2020.10.28.359828v1) which is schematically summarized in the figure below:<br/>
+- PROBE is part of the the study entitled [Learning functional properties of proteins with language models](https://rdcu.be/cJAKN) which is schematically summarized in the figure below:<br/>
  
  ![Summary of The Study](https://github.com/serbulent/TrainableRepresentationAnalysis/blob/master/evalprotrep_summary_figure.jpg)
 
+If you find PROBE useful please consider citing:
+
+Unsal, S., Atas, H., Albayrak, M., Turhan, K., Acar, A. C., & Doğan, T. (2022). Learning functional properties of proteins with language models. *Nature Machine Intelligence, 4*(3), 227-245.
 
 # How to Run PROBE
 

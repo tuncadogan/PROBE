@@ -1,5 +1,7 @@
 # PROBE (Protein RepresentatiOn BEnchmark): Function-Centric Evaluation of Protein Representation Methods
 
+![Figure1](https://github.com/user-attachments/assets/51176d93-85ac-4a24-92de-5d7c8334ca2e)
+
 - PROBE runs benchmark analyses on protein representation/feature vectors of any representation learning method in order to evaluate its predictive performance on protein function related predictive tasks, and to and compare it other methods from literature.
 
 - Aiming to evaluate how much each representation model captures different facets of functional information, we constructed and applied 4 independent benchmark tests based on;
